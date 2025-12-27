@@ -1,6 +1,6 @@
 --[[
 
-	Rayfield Interface Suite
+	EZ.RU2025 MORTEM METALLUM
 	by Sirius
 
 	shlex  | Designing + Programming
@@ -1625,10 +1625,10 @@ function RayfieldLibrary:CreateWindow(Settings)
 	end
 
 	LoadingFrame.Version.TextTransparency = 1
-	LoadingFrame.Title.Text = Settings.LoadingTitle or "Rayfield"
-	LoadingFrame.Subtitle.Text = Settings.LoadingSubtitle or "Interface Suite"
+	LoadingFrame.Title.Text = Settings.LoadingTitle or "EZ.RU"
+	LoadingFrame.Subtitle.Text = Settings.LoadingSubtitle or "MORTEM METALLUM
 
-	if Settings.LoadingTitle ~= "Rayfield Interface Suite" then
+	if Settings.LoadingTitle ~= "EZ.RU MORTEM METALLUM" then
 		LoadingFrame.Version.Text = "Rayfield UI"
 	end
 
@@ -3765,7 +3765,7 @@ if useStudio then
 
 	--local Window = RayfieldLibrary:CreateWindow({
 	--	Name = "Rayfield Example Window",
-	--	LoadingTitle = "Rayfield Interface Suite",
+	--	LoadingTitle = "EZ.RU MORTEM METALLUM
 	--	Theme = 'Default',
 	--	Icon = 0,
 	--	LoadingSubtitle = "by Sirius",
