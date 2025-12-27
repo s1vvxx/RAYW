@@ -3767,7 +3767,7 @@ if useStudio then
 	--	Name = "Rayfield Example Window",
 	--	LoadingTitle = "EZ.RU MORTEM METALLUM",
 	--	Theme = 'Default',
-	--	Icon = 0,
+	--	Icon = "rbxassetid://12645430259",
 	--	LoadingSubtitle = "by Sirius",
 	--	ConfigurationSaving = {
 	--		Enabled = true,
